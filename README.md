@@ -44,7 +44,7 @@ currently_building:
   - playable worlds
   - deployed ML products
   - creative developer experiences
-philosophy: "Build worlds. Train intelligence. Ship products."
+philosophy: "brainrot-maxing :p"
 ```
 
 ---
