@@ -1,6 +1,7 @@
 <div align="center">
   <img
-    src="https://github.com/user-attachments/assets/28644b5d-5712-4217-ac72-618f27b3355f"
+    src="./blade%20github.jpg"
+    alt="Blade GitHub Banner"
     width="650"
   />
 </div>
