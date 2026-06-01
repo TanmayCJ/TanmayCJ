@@ -1,7 +1,6 @@
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/28644b5d-5712-4217-ac72-618f27b3355f"
-    alt="Blade GitHub Banner"
     width="650"
   />
 </div>
@@ -45,3 +44,90 @@ currently_building:
   - deployed ML products
   - creative developer experiences
 philosophy: "Build worlds. Train intelligence. Ship products."
+```
+
+---
+
+## What I Build
+
+<table>
+  <tr>
+    <td><strong>Playable Worlds</strong><br/>2D games, retro/32-bit experiences, interactive systems.</td>
+    <td><strong>Intelligent Systems</strong><br/>AI tools, ML models, agentic workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>Shipped Products</strong><br/>Full-stack apps, deployment, DevOps, MLOps.</td>
+    <td><strong>Designed Experiences</strong><br/>UI/UX, visual systems, product polish.</td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" />
+
+<br><br>
+
+**AI / ML**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" />
+
+<br><br>
+
+**Game Dev**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="36" />
+
+<br><br>
+
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
+
+<br><br>
+
+**Backend / DevOps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" />
+
+<br><br>
+
+**Tools**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" />
+
+</div>
+
+---
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1f6feb,100:0d1117&section=footer" 
+    alt="Footer" 
+  />
+  <br />
+  <strong>Thanks for visiting — now go build something that feels alive.</strong>
+</div>
